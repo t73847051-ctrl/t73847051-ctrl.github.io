@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# cp's class
+# Andy's class
 
 - [Broadcast](./broadcast/)  
 - [Courses](./courses/)
